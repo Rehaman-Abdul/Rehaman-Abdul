@@ -16,8 +16,9 @@ I am a passionate developer transitioning into the world of AI. I specialize in 
 - **Automation:** ![Make.com](https://img.shields.io/badge/Make.com-812BFF?style=for-the-badge&logo=make&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 - **DevOps:** ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rehaman-abdul&show_icons=true&theme=radical)
+**📈 GitHub Stats:** <br>
+![Rehaman's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Rehaman-Abdul&show_icons=true&theme=radical)
+![Rehaman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rehaman-Abdul&theme=radical)
 
 ---
 
